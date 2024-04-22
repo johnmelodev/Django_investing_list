@@ -1,4 +1,4 @@
-```markdown
+
 # Django_investing_list
 
 ## Project Description
